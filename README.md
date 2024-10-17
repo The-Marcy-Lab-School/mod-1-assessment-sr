@@ -1,5 +1,10 @@
 # Mod 1 Assessment!
 
+- [Before You Start](#before-you-start)
+- [Set Up Your Repository](#set-up-your-repository)
+- [Grading](#grading)
+- [Feedback](#feedback)
+
 ## Before You Start
 
 Hello and welcome to the Mod 1 Assessment! Before we continue, we want to ground you in the fact that the goal of this assignment is to help *you*. This is not about grades, it's about finding out what you know and if you still need help in some areas. Attempt as *many* questions as you can, some code is always better than no code!
@@ -16,7 +21,18 @@ Some other helpful things:
 
 Good luck everyone!
 
-## Short Responses
+## Set Up Your Repository
+
+Before starting, run the following commands to install dependencies and create your draft branch.
+
+```
+npm i 
+git checkout draft
+```
+
+When you are done, push your commits to the `draft` branch of GitHub and create a pull request. For a refresher on this process, check out the [Marcy Docs on how to submit an assignment](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
+
+## Grading
 
 Every short response question will be given a score from 0-3 using the following scoring system:
 
@@ -26,3 +42,19 @@ Every short response question will be given a score from 0-3 using the following
 * 3 — Answered the question correctly and completely. The response is clear and concise. Examples and/or diagrams are well-chosen and enhance the response.
 
 We understand that typos and grammar mistakes can happen, however, you will also lose .5 points on any the question where typos or grammar errors are "distracting". Distracting meaning that if you saw this on the job, it would have to be retyped for clarification or for the sake of presentation.
+
+## Feedback
+
+To support you in your growth as a technical communicator, your instructor may also provide feedback on the following areas:
+
+**Clarity**: The communication is precise, concise, and unambiguous. Technical jargon is explained, and terms are used consistently.
+
+**Completeness**: The communication covers all necessary technical details, scenarios, and edge cases, providing sufficient examples or references.
+
+**Structure and Organization**: For longer answers, answers are logically organized with clear sections, headings, and transitions between ideas. The structure enhances understanding.
+
+**Use of Examples and Diagrams**: Uses well-chosen examples, diagrams, or code snippets (when appropriate) that significantly aid understanding and clarify complex concepts.
+
+**Accuracy**: The content is technically correct and adheres to current best practices and standards.
+
+**Conciseness**: The communication is efficient, avoiding unnecessary detail or excessive language, while still being comprehensive.
