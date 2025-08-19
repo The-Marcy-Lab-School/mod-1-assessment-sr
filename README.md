@@ -143,7 +143,7 @@ For each section, use clear and concise language. Double check spelling and gram
 
 
 ### Question 5 
-Please explain what "Pass By Reference" means. What is the impact of this on functions that have Arrays/Objects as parameters?
+Please explain what "Pass By Reference" means. Why must JavaScript developers be aware of this, particularly for functions that accept Arrays/Objects as inputs?
 
 ### Answer 5
 
