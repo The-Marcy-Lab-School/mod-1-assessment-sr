@@ -99,10 +99,10 @@ For each of the scenarios below, identify the array higher-order method that wou
 
 ### Answer 2
 
-Scenario 1: `arr.???`
-Scenario 2: `arr.???`
-Scenario 3: `arr.???`
-Scenario 4: `arr.???`
+- Scenario 1: `arr.???`
+- Scenario 2: `arr.???`
+- Scenario 3: `arr.???`
+- Scenario 4: `arr.???`
 
 ### Question 3
 
